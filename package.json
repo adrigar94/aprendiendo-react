@@ -19,5 +19,11 @@
   "homepage": "https://github.com/adrigar94/aprendiendo-react#readme",
   "dependencies": {
     "canvas-confetti": "1.6.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
   }
 }
