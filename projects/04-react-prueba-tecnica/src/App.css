@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: system-ui;
+    margin: 0 auto;
+    gap: 1rem;
+}
+
+.img-cat {
+    max-height: 50vh;
+}
