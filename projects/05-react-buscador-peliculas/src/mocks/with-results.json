@@ -1,0 +1,76 @@
+{
+    "Search": [
+        {
+            "Title": "Oppenheimer",
+            "Year": "2023",
+            "imdbID": "tt15398776",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Oppenheimer",
+            "Year": "1980",
+            "imdbID": "tt0078037",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDJmYTEyODAtMDgwMS00ZDU4LWEwYTYtOTQxYmQ2NTE5ZGY5XkEyXkFqcGdeQXVyNTEwNzU0NzY@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Trials of J. Robert Oppenheimer",
+            "Year": "2008",
+            "imdbID": "tt1559008",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BODVkZGI1MDYtYTBkYy00NDBhLWJhZGMtZGZiNWQ2MDI3YWRmXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "In der Sache J. Robert Oppenheimer",
+            "Year": "1964",
+            "imdbID": "tt0058228",
+            "Type": "movie",
+            "Poster": "N/A"
+        },
+        {
+            "Title": "The Ballad of Oppenheimer Park",
+            "Year": "2016",
+            "imdbID": "tt5136682",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjM0MmFhODgtMTdmOS00MDk0LTkxMmQtYjkxNWEzNDAzMzJlXkEyXkFqcGdeQXVyMTMxNDk0MDU@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Oppenheimer: The Real Story",
+            "Year": "2023",
+            "imdbID": "tt27192512",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDg1ZWE5MmYtZGU5YS00MzU2LThjMjktYThiNmVmMmZjMDkxXkEyXkFqcGdeQXVyMTU3ODE5NzYy._V1_SX300.jpg"
+        },
+        {
+            "Title": "Oppenheimer",
+            "Year": "2011",
+            "imdbID": "tt2241393",
+            "Type": "movie",
+            "Poster": "N/A"
+        },
+        {
+            "Title": "In der Sache J. Robert Oppenheimer",
+            "Year": "1981",
+            "imdbID": "tt0876466",
+            "Type": "movie",
+            "Poster": "N/A"
+        },
+        {
+            "Title": "Oppenheimer presenta",
+            "Year": "2003–",
+            "imdbID": "tt0400005",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTlhNzVkNTgtMjBlZi00MTNkLTkwMzEtNGExMzk2MDE5YzE4XkEyXkFqcGdeQXVyOTE2MDk0MzY@._V1_SX300.jpg"
+        },
+        {
+            "Title": "100 Millionen Karat - Die Diamanten-Dynastie Oppenheimer",
+            "Year": "2006",
+            "imdbID": "tt1268159",
+            "Type": "movie",
+            "Poster": "N/A"
+        }
+    ],
+    "totalResults": "16",
+    "Response": "True"
+}

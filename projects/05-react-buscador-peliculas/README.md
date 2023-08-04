@@ -1,12 +1,12 @@
 Enunciado
 Crea una aplicación para buscar películas
 
-API a usar: - https://www.omdbapi.com/?i=tt3896198&apikey=72f66896
+API a usar: - https://www.omdbapi.com/?s=openheimer&apikey=72f66896
 API KEY: 72f66896
 
 Requerimientos:
 
-- [] Necesita mostrar un input para buscar la película y un botón para buscar.
+- [x] Necesita mostrar un input para buscar la película y un botón para buscar.
 
 - [] Lista las películas y muestra el título, año y poster.
 
