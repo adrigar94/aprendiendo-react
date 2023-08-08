@@ -41,3 +41,11 @@
     object-fit: cover;
     background: #fff;
 }
+
+.products button {
+    background-color: #09f;
+}
+
+.products button.inCart {
+    background-color: rgb(108, 255, 50);
+}
